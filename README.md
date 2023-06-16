@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xnorlaxx
-- 👀 I’m interested in hacking and developing automotive.
-- 🌱 I’m currently learning Python, Java, and Ethical Hacking.
+- 👀 Developing video games and automotive imbedded systems are my interests.
+- 🌱 I’m currently learning Python and Java. I have experience with HTML, CSS3, and JavaScript.
 - 📫 How to reach me: james.gordon.patrick@protonmail.com
 
 <!---
